@@ -5,7 +5,7 @@ to build data driven products that can solve problems.
 
 **Strong Languages**: JavaScript, Python and c++
   
-- 🔭 I’m currently building communities and making tech education accessible regardless of location and the size of the wallets, These communities  includes:  [Data Science  East  Africa ](https://twitter.com/DSEAfrica), [Lux Academy](https://twitter.com/lux_academy), [LuxDevHQ](https://twitter.com/LuxDevHQ) and [Africa Developer's Conference](https://twitter.com/AfricaDevsConf).
+- 🔭 I’m currently building communities and making tech education accessible regardless of location and the size of the wallets, these communities  includes:  [Data Science  East  Africa ](https://twitter.com/DSEAfrica), [Lux Academy](https://twitter.com/lux_academy), [LuxDevHQ](https://twitter.com/LuxDevHQ) and [Africa Developer's Conference](https://twitter.com/AfricaDevsConf).
 
 - 👯 I’m looking to collaborate on open source tools for data science, machine learning & API.
 
