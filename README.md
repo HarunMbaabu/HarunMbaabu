@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Harun Mbaabu Mwenda. I am Software Engineer,Data Scientist & DevRel Enginner. I combine my knowledge of software and data science
+My Name is Harun Mbaabu Mwenda. I am Software Engineer, Data Scientist & DevRel Engineer. I combine my knowledge of software and data science
 to build data driven products that can solve problems. 
 
 **Strong Languages**: JavaScript, Python and c++
