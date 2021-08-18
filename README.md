@@ -7,7 +7,7 @@ to build data driven products that can solve problems.
   
 - 🔭 I’m currently building communities and making tech education accessible regardless of location and the size of the wallets, these communities  includes:  [Data Science  East  Africa ](https://twitter.com/DSEAfrica), [Lux Academy](https://twitter.com/lux_academy), [LuxDevHQ](https://twitter.com/LuxDevHQ) and [Africa Developer's Conference](https://twitter.com/AfricaDevsConf).
 
-- 💬 Ask me about DevRel, APIs, Software Engineering, Machine Learning and Data Science.
+- 💬 Ask me about DevRel, APIs, DevOps, Software Engineering, Machine Learning and Data Science.
 
 - 📫 How to reach me: Email: mbaabuharun8@gmail.com, [Twitter](https://twitter.com/HarunMbaabu), [Linkedin](https://www.linkedin.com/in/mbaabu-harun-mwenda-8a89ab174/).
 
