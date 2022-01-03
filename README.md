@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Harun Mbaabu Mwenda. I am a developer relations engineer, community expert, a generalist software engineer, DevOps engineer, and a passionate data scientist. I combine my knowledge of software and data science to build data driven products that can solve problems. 
+My name is Harun Mbaabu Mwenda. I am a developer relations engineer, community expert, a generalist software engineer, DevOps engineer, and a passionate data scientist. I combine my knowledge of software and data science to build data driven products that can solve problems and derive insights from the customers and developers. 
 
 **Strong Languages**: JavaScript, Python and c++
   
