@@ -19,5 +19,6 @@ Latest Talk:
 
 
 --------------
+
 Time invested in my art for the last 7 days by [![wakatime](https://wakatime.com/badge/user/e350a43c-e355-4f24-90e7-548e4dca8f76.svg)](https://wakatime.com/@e350a43c-e355-4f24-90e7-548e4dca8f76)
 --------------
