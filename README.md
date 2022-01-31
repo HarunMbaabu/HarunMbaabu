@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Harun Mbaabu Mwenda. I am a senior data analyst, generalist software engineer, senior community manager, and a passionate developer relations engineer. I combine my knowledge of software and data science to build data driven and products that can solve problems and derive insights from the customers and developers. A considerable amount of my time is spent doing unpaid community work on things that I hope will help humanity in some way and my open source work is supported by the community.
+My name is Harun Mbaabu Mwenda . I am a senior data analyst, generalist software engineer, senior community manager, and a passionate developer relations engineer. I combine my knowledge of software and data science to build data driven and products that can solve problems and derive insights from the customers and developers. A considerable amount [![wakatime](https://wakatime.com/badge/user/e350a43c-e355-4f24-90e7-548e4dca8f76.svg)](https://wakatime.com/@e350a43c-e355-4f24-90e7-548e4dca8f76) of my time is spent doing unpaid community work on things that I hope will help humanity in some way and my open source work is supported by the community.
 
 **Strong Languages**: JavaScript, Python and c++
   
@@ -16,9 +16,3 @@ Latest Talk:
 * London CityJS Conference 2021 [JavaScript for Machine Learning](https://cityjsconf.org/speaker/602044dd75e90e35cb2f21c1)
 
 * Cisco’s DevNet Create 2021 [Network Attacks Detection Methods Based on Deep Learning Techniques.](https://youtu.be/WSdOVCIBj5A)
-
-
---------------
-
-Time invested in my art for the last 7 days by [![wakatime](https://wakatime.com/badge/user/e350a43c-e355-4f24-90e7-548e4dca8f76.svg)](https://wakatime.com/@e350a43c-e355-4f24-90e7-548e4dca8f76)
---------------
