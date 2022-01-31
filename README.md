@@ -16,3 +16,5 @@ Latest Talk:
 * London CityJS Conference 2021 [JavaScript for Machine Learning](https://cityjsconf.org/speaker/602044dd75e90e35cb2f21c1)
 
 * Cisco’s DevNet Create 2021 [Network Attacks Detection Methods Based on Deep Learning Techniques.](https://youtu.be/WSdOVCIBj5A)
+
+--------------
