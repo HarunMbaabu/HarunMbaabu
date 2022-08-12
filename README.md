@@ -8,7 +8,7 @@ My name is Harun Mbaabu Mwenda .I am a senior data engineer and a passionate dev
 
 - 💬 Ask me about DevRel, APIs, DevOps, Software Engineering, Machine Learning and Data Science.
 
-- 📫 How to reach me : Email: mbaabuharun8@gmail.com, [Twitter](https://twitter.com/HarunMbaabu), [Linkedin](https://www.linkedin.com/in/mbaabu-harun-mwenda-8a89ab174/) and or view my content on 👉🏻 [YouTube](https://www.youtube.com/channel/UCS-zdr8_cuUGNvOhLKUkjZQ).
+- 📫 How to reach me : Email: mbaabuharun8@gmail.com, [Twitter](https://twitter.com/HarunMbaabu), [Linkedin](https://www.linkedin.com/in/harun-mbaabu-mwenda-8a89ab174/) and or view my content on 👉🏻 [YouTube](https://www.youtube.com/channel/UCS-zdr8_cuUGNvOhLKUkjZQ).
 
 --------------
 
