@@ -5,10 +5,12 @@ I am Harun Mbaabu Mwenda. I am a data engineer with 3+ years of experience desig
 A considerable amount of my time is spent doing community work on things that I hope will help humanity in some way and my open-source work is supported by the community. 
 
 **Strong Languages**: JavaScript, Python and c++
-  
-- 🔭 I’m currently building communities and making tech education accessible regardless of location and the size of the wallets, these communities  includes:  [Data Science  East  Africa ](https://twitter.com/DSEAfrica), [Lux Academy](https://twitter.com/lux_academy), [LuxDevHQ](https://twitter.com/LuxDevHQ) and [Africa Developer's Conference](https://twitter.com/AfricaDevsConf).
 
-- 💬 Ask me about DevRel, APIs, DevOps, Software Engineering, Machine Learning and Data Science.
+- 🔭 Previously, I have worked with different firms and organizations which include Andela, Safaricom, Koko Networks, MFS Africa, and Ngeni Developers. 
+ 
+- 🔭 I’m also building communities and making tech education accessible regardless of location and the size of the wallets, these communities  includes:  [Data Science  East  Africa ](https://twitter.com/DSEAfrica), [Lux Academy](https://twitter.com/lux_academy), [LuxDevHQ](https://twitter.com/LuxDevHQ) and [Africa Developer's Conference](https://twitter.com/AfricaDevsConf).
+
+- 💬 Ask me about DevRel, Data Engineering, APIs, DevOps, Software Engineering, Machine Learning and Data Science.
 
 - 📫 How to reach me : Email: mbaabuharun8@gmail.com, [Twitter](https://twitter.com/HarunMbaabu), [Linkedin](https://www.linkedin.com/in/harun-mbaabu-mwenda-8a89ab174/) and or view my content on 👉🏻 [YouTube](https://www.youtube.com/channel/UCS-zdr8_cuUGNvOhLKUkjZQ).
 
