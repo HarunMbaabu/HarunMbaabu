@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Harun Mbaabu Mwenda. I am a senior data engineer trying to make software development and data engineering delightful by helping devs learn in public. I combine my knowledge of software and data science to build data driven and products that can solve problems and derive insights from the customers and developers. A considerable amount of my time is spent doing unpaid community work on things that I hope will help humanity in some way and my open source work is supported by the community.
+I am Harun Mbaabu Mwenda. I am a data engineer with 3+ years of experience designing, building, and maintaining large-scale data systems where I combine my knowledge of software development and data science to build data-driven products that can solve problems and derive insights from the customers and developers. 
+
+A considerable amount of my time is spent doing community work on things that I hope will help humanity in some way and my open-source work is supported by the community. 
 
 **Strong Languages**: JavaScript, Python and c++
   
