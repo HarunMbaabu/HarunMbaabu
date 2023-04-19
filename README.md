@@ -12,7 +12,7 @@ A considerable amount of my time is spent doing community work on things that I 
 
 - 💬 Ask me about DevRel, Data Engineering, APIs, DevOps, Software Engineering, Machine Learning and Data Science.
 
-- 📫 How to reach me : Email: mbaabuharun8@gmail.com, [Twitter](https://twitter.com/HarunMbaabu), [Linkedin](https://www.linkedin.com/in/harun-mbaabu-mwenda-8a89ab174/) and or view my content on 👉🏻 [YouTube](https://www.youtube.com/channel/UCS-zdr8_cuUGNvOhLKUkjZQ).
+- 📫 How to reach me : Email: mbaabuharun8@gmail.com, [Twitter](https://twitter.com/HarunMbaabu), [Linkedin](https://www.linkedin.com/in/harun-mbaabu-mwenda-8a89ab174/) and or view my content on 👉🏻 [YouTube](https://www.youtube.com/@luxtechacademy).
 
 --------------
 
