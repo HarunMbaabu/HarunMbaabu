@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Harun Mbaabu Mwenda. I am a data engineer with 3+ years of experience designing, building, and maintaining large-scale data systems where I combine my knowledge of software development and data science to build data-driven products that can solve problems and derive insights from the customers and developers. 
+I am Harun Mbaabu Mwenda, a highly skilled Senior Data Scientist with over 5 years of experience. Possess excellent communication skills and the ability to work effectively with stakeholders across different functional teams. Proficient in Python, SQL, R, and JavaScript, with experience using web services such as Redshift, S3, and Spark.
 
 A considerable amount of my time is spent doing community work on things that I hope will help humanity in some way and my open-source work is supported by the community. 
 
