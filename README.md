@@ -4,7 +4,7 @@ I am Harun Mbaabu Mwenda, a highly skilled Senior Data Scientist with over 5 yea
 
 A considerable amount of my time is spent doing community work on things that I hope will help humanity in some way and my open-source work is supported by the community. 
 
-**Strong Languages**: SQL, Python, Scala, JavaScript, and c++ 
+**Strong Languages**: Python, SQL, Scala, and c++ 
 
 - 🔭 Previously, I have worked with different firms and organizations which include Andela, Safaricom, Koko Networks, MFS Africa, and Ngeni Labs. 
  
