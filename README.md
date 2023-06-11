@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Harun Mbaabu Mwenda, a highly skilled Senior Data Scientist with over 5 years of experience who possess excellent communication skills and the ability to work effectively with stakeholders across different functional teams.
+I am Harun Mbaabu Mwenda, a highly skilled Analytics Engineer with over 5 years of experience who possess excellent communication skills and the ability to work effectively with stakeholders across different functional teams.
 
 A considerable amount of my time is spent doing community work on things that I hope will help humanity in some way and my open-source work is supported by the community. 
 
