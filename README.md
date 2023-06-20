@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Harun Mbaabu Mwenda, a highly skilled Analytics Engineer with over 5 years of experience who possess excellent communication skills and the ability to work effectively with stakeholders across different functional teams.
+I am an accomplished Analytics and Engineer, harnessing over 4 years of invaluable experience. With a strong foundation in my field, I bring a unique blend of technical expertise and exceptional communication skills. Collaborating seamlessly with stakeholders from diverse functional teams is second nature to me.
 
 A considerable amount of my time is spent doing community work on things that I hope will help humanity in some way and my open-source work is supported by the community. 
 
