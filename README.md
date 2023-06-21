@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an accomplished Analytics and Engineer, harnessing over 4 years of invaluable experience. With a strong foundation in my field, I bring a unique blend of technical expertise and exceptional communication skills. Collaborating seamlessly with stakeholders from diverse functional teams is second nature to me.
+I am an accomplished Data and Analytics Engineer, harnessing over 4 years of invaluable experience. With a strong foundation in my field, I bring a unique blend of technical expertise and exceptional communication skills. Collaborating seamlessly with stakeholders from diverse functional teams is second nature to me.
 
 A considerable amount of my time is spent doing community work on things that I hope will help humanity in some way and my open-source work is supported by the community. 
 
