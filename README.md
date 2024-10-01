@@ -6,7 +6,7 @@ A considerable amount of my time is spent doing community work on things that I 
 
 **Strong Languages**: Python, SQL, Scala, and c++ 
 
-- 🔭 I am currently working as a Data engineer at NCBA Group.
+- 🔭 I am currently working as a Data engineer at [NCBA Group Plc](https://ke.ncbagroup.com/).
   
 - 🔭 Previously, I worked with different firms, organizations, and Start Ups which include Andela, Safaricom, Koko Networks, MFS Africa, and Ngeni Labs. 
  
