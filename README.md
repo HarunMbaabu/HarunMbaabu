@@ -14,7 +14,7 @@ A considerable amount of my time is spent doing community work on things that I 
 
 - 💬 Ask me about Data Engineering,Analytics Engineering, DevOps, and Data Science.
 
-- 📫 How to reach me : Email: mbaabuharun8@gmail.com, [Twitter](https://twitter.com/HarunMbaabu), [Linkedin](https://www.linkedin.com/in/harun-mbaabu-mwenda-8a89ab174/) and or view my content on 👉🏻 [YouTube](https://www.youtube.com/@luxtechacademy).
+- 📫 How to reach me : Email: mbaabuharun8@gmail.com, [Twitter](https://twitter.com/HarunMbaabu), [Linkedin](https://www.linkedin.com/in/harun-mbaabu-mwenda-8a89ab174/) and or view my content on 👉🏻 [YouTube](https://www.youtube.com/@LuxDevAcademy).
 
 --------------
 
